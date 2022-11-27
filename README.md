@@ -1,1 +1,3 @@
-# Min-Course-Linear-Algebra
+# 线性代数教学材料
+# 云南大学 
+# 闵文文副教授
